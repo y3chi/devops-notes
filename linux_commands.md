@@ -1,0 +1,1 @@
+echo "# Мои заметки по Linux" > linux_commands.md
